@@ -1,0 +1,1 @@
+A Chrome extension that lets you highlight any mathematical expression on a webpage and replace it with its evaluated result using a user-defined keyboard shortcut.
