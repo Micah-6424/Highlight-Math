@@ -1,0 +1,10 @@
+{
+  "name": "Highlight Math",
+  "description": "A Chrome extension that lets you highlight any mathematical expression on a webpage and replace it with its evaluated result using a user-defined keyboard shortcut.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "/dev/null"
+  }
+}
